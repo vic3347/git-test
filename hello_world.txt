@@ -1,1 +1,1 @@
-This is the first file using Git.  It will ultimately committed to Github
+This is the first file using Git.  It will ultimately be committed to Github
