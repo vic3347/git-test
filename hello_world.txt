@@ -1,1 +1,2 @@
 This is the first file using Git.  It will ultimately be committed to Github
+--Part 2 of this test.
